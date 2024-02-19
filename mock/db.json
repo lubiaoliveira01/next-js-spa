@@ -1,0 +1,32 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "skill": "React JS"
+    },
+    {
+      "id": 2,
+      "skill": "Angular"
+    },
+    {
+      "id": 3,
+      "skill": "Typescript"
+    },
+    {
+      "id": 4,
+      "skill": "Next JS"
+    },
+    {
+      "id": 5,
+      "skill": "Javascript"
+    },
+    {
+      "id": 6,
+      "skill": "CSS"
+    },
+    {
+      "id": 7,
+      "skill": "HTML"
+    }
+  ]
+}
